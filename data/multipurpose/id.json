@@ -1,0 +1,71 @@
+{
+  "categoryName": "Serba Guna",
+  "apis": [
+    {
+      "apiName": "Akuari Api",
+      "status": true,
+      "documentationUrl": "https://api.akuari.my.id/",
+      "developer": {
+        "name": "akuari",
+        "profileUrl": null
+      },
+      "description": "Kumpulan api kebutuhan bot, dan beberapa api:  Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.",
+      "authentication": false
+    },
+    {
+      "apiName": "API Indonesia",
+      "status": true,
+      "documentationUrl": "https://docs.apiindonesia.id",
+      "developer": {
+        "name": "khmuhtadin",
+        "profileUrl": "https://github.com/khmuhtadin"
+      },
+      "description": "REST API data publik Indonesia: wilayah, sekolah (200rb NPSN), rumah sakit, kodepos, halal BPOM, kurs BI, cuaca BMKG, gempa, hari libur, jadwal sholat, validasi NIK/NPWP/QRIS, dan data merek DJKI (904 ribu merek terdaftar). Tier gratis tersedia, dokumentasi OpenAPI lengkap, plus MCP server untuk AI agents.",
+      "authentication": true
+    },
+    {
+      "apiName": "KyioAPI",
+      "status": true,
+      "documentationUrl": "https://api.kyio.web.id/docs",
+      "developer": {
+        "name": "Har",
+        "profileUrl": "https://github.com/kyiov"
+      },
+      "description": "API infrastruktur berkinerja tinggi untuk developer modern, dengan lebih dari 209 endpoint untuk generasi AI, pengunduhan media, dan alat developer. Latensi sangat rendah tanpa perlu pengaturan rumit.",
+      "authentication": false
+    },
+    {
+      "apiName": "KyioAPI",
+      "status": true,
+      "documentationUrl": "https://api.kyio.web.id/docs",
+      "developer": {
+        "name": "Har",
+        "profileUrl": "https://github.com/kyiov"
+      },
+      "description": "API infrastruktur berkinerja tinggi untuk developer modern, dengan lebih dari 209 endpoint untuk generasi AI, pengunduhan media, dan alat developer. Latensi sangat rendah tanpa perlu pengaturan rumit.",
+      "authentication": false
+    },
+    {
+      "apiName": "Ryzumi API",
+      "status": true,
+      "documentationUrl": "https://api.ryzumi.net",
+      "developer": {
+        "name": "ShirokamiRyzen",
+        "profileUrl": "https://github.com/ShirokamiRyzen"
+      },
+      "description": "Menyediakan API gratis untuk pengembangan aplikasi maupun bot, disertai dengan dokumentasi lengkap dan uptime hingga 99%. Akses berbagai API seperti AI, Downloader, Internet, dan lainnya",
+      "authentication": false
+    },
+    {
+      "apiName": "StudioAPI",
+      "status": true,
+      "documentationUrl": "https://docs.studioapi.dev",
+      "developer": {
+        "name": "khmuhtadin",
+        "profileUrl": "https://github.com/khmuhtadin"
+      },
+      "description": "API terpadu multi-sumber yang siap untuk agen dengan 30+ sumber data publik Indonesia (wilayah, cuaca, gempa, kurs, halal, BPOM, KBBI, sekolah, kampus, rumah sakit, kodepos, dan lainnya) dalam satu kontrak REST. Memiliki tier gratis dan berbayar.",
+      "authentication": true
+    }
+  ]
+}
